@@ -8,4 +8,5 @@ Finetune commond:
 Running prediction on GLUE dataset:
 ```python prediction_glue.py --load_8bit --base_model 'baffo32/decapoda-research-llama-7b-hf' --lora_weights './qLLaMA'```
 
-
+Dataset download:
+https://www.kaggle.com/datasets/quora/question-pairs-dataset
